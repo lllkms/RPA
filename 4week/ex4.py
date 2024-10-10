@@ -7,7 +7,7 @@ try:
         result = sumfunc(number)
         print(f"1~{number}까지 정수의 합은 {number} 입니다.")
         if result == 210:
-            print("합은 210 입니다.20 ")
+            print("합은 210 입니다. ")
     else:
         print("1이상의 정수를 입력해주세요.")
 except ValueError:
